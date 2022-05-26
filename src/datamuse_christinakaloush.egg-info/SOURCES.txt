@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/datamuse_christinakaloush.egg-info/PKG-INFO
+src/datamuse_christinakaloush.egg-info/SOURCES.txt
+src/datamuse_christinakaloush.egg-info/dependency_links.txt
+src/datamuse_christinakaloush.egg-info/top_level.txt
